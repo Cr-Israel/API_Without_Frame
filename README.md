@@ -1,7 +1,7 @@
 # API Without Framework or Lib
 
 <h2>Descrição do Projeto</h2>
-<p>Neste projeto, fiz um API em Node.js sem nenhum framework ou biblioteca. Apenas usando os core modules do Node.</p>
+<p>Neste projeto, fiz um API em Node.js sem nenhum framework ou biblioteca. Apenas usando os core modules do Node.Usei o padrão de projeto N-Layers para estrutura do projeto. Usei o padrão repository para acesso a dados e os padrões Factory e Dependency Injection para geração de instâncias.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
@@ -30,7 +30,7 @@
 # API Without Framework or Lib
 
 <h2>Project Description</h2>
-<p>In this project, I created an API in Node.js without any framework or library. I only used Node's core modules.</p>
+<p>In this project, I created a Node.js API without using any frameworks or libraries, only utilizing Node's core modules. I used the N-Layers design pattern to structure the project, and employed the repository pattern for data access, as well as the Factory and Dependency Injection patterns for instance generation.</p>
 
 <h2>Features</h2>
 <ul>
